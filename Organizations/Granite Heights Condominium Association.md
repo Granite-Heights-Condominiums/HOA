@@ -6,11 +6,11 @@
 
 ## Contact Information
 - **Email:** [CEDARMGT@COMCAST.NET](mailto:CEDARMGT@COMCAST.NET)
-- **Contacts:** Allan J O'Brien
+- **Contact:** Allan J O'Brien
 - **Phone:** (603) 485-8503
 
 ## Address
-- **1558 Hooksett Rd Ste 5, Hooksett, NH, 03106**
+- **[1558 Hooksett Rd Ste 5, Hooksett, NH, 03106](https://www.google.com/maps/place/1558+Hooksett+Rd+%235,+Hooksett,+NH+03106/@43.076982,-71.4612929,720m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89e2443eb064afa3:0xb6fea09945726504!8m2!3d43.076982!4d-71.458718!16s%2Fg%2F11pvcv219n?entry=ttu)**
 
 ## The Homeowners Association Board
 
