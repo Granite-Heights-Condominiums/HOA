@@ -1,13 +1,12 @@
 # Cedar Management Group
 
-**Property Management**
-
+## Property Management
 - **NH Business ID:** 141084
 - **Business Creation Date:** 08/08/1990
-- **Email:** [CEDARMGT@COMCAST.NET](mailto:CEDARMGT@COMCAST.NET)
 
 ## Contact Information
 - **Contact:** Allan J O'Brien
+- **Email:** [CEDARMGT@COMCAST.NET](mailto:CEDARMGT@COMCAST.NET)
 - **Phone:** (603) 485-8503
 
 ## Address
