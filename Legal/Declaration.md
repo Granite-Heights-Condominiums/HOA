@@ -10,7 +10,7 @@
 
 2. **The Declarant is the sole owner of the land described herein** and the improvements thereon by virtue of a deed dated December 10, 2001, from Land Acquisition, LLC, recorded in the Merrimack County Registry of Deeds in **Book 2322, Page 0176**, the Corrective Deed from Land Acquisition, LLC et al dated December 4, 2002 and to be recorded herewith in said Registry; the deed of John B. DiBitetto to Declarant dated December 10, 2001 and recorded in the Registry in **Book 2311, Page 195**, and the deed to the water tower from Michael J. DiBitetto to Declarant dated December 10, 2001 and recorded in the Registry in **Book 2322, Page 197**.
 
-3. **The Declarant hereby submits the land described in Exhibit A hereto (the “Land”)** and the improvements now or hereafter constructed thereon and the easements appurtenant thereto to the condominium form of ownership and use, in the manner provided by [NH RSA 356-B](https://casetext.com/statute/new-hampshire-revised-statutes/title-31-trade-and-commerce/chapter-356-b-condominium-act), subject to the terms of this Declaration in its present form and as it may hereafter be amended.
+3. **The Declarant hereby submits the land described in [Exhibit A](https://github.com/Granite-Heights-Condominiums/HOA/blob/main/Legal/Amendments.md) hereto (the “Land”)** and the improvements now or hereafter constructed thereon and the easements appurtenant thereto to the condominium form of ownership and use, in the manner provided by [NH RSA 356-B](https://casetext.com/statute/new-hampshire-revised-statutes/title-31-trade-and-commerce/chapter-356-b-condominium-act), subject to the terms of this Declaration in its present form and as it may hereafter be amended.
 
 ## DEFINITIONS
 
@@ -34,7 +34,7 @@
 
 10. **Eligible Insurer or Guarantor** means an insurer or governmental guarantor of a first mortgage who has requested notice of certain matters as provided in Article III of this Declaration.
 
-11. **Land** means the real property described in Exhibit A to this Declaration, attached hereto and made a part hereof.
+11. **Land** means the real property described in [Exhibit A](https://github.com/Granite-Heights-Condominiums/HOA/blob/main/Legal/Amendments.md) to this Declaration, attached hereto and made a part hereof.
 
 12. **Majority of Owners** means the Owners of the Units to which more than fifty percent (50%) of the votes in the Association appertain. Any specified percentage of the Owners means the Owners of Units to which the specified percentage of the votes in the Association appertain.
 
@@ -52,7 +52,7 @@
 
 19. **Unit** means a unit as defined by the Act, which is bounded and described as shown on the Plans and as provided in this Declaration.
 
-20. **Withdrawable Land** that land, with the improvements now or hereafter constructed thereon described in Exhibit B attached hereto.
+20. **Withdrawable Land** that land, with the improvements now or hereafter constructed thereon described in ***Exhibit B*** attached hereto.
 
 ## STATUTORY REQUIREMENTS
 
@@ -63,7 +63,7 @@ The name of the Condominium is "Granite Heights, a Condominium".
 The location of the Condominium is Thames Road, Hooksett, Merrimack County, New Hampshire.
 
 ### C. Description of Land
-A legal description by metes and bounds of the Land submitted to the Condominium is contained in Exhibit A hereto. Pursuant to RSA 356-B-16 (IV), the Declarant reserves the right to contract the land subject to the condominium by amending the Declaration to withdraw from the Condominium the land described on Exhibit B hereto and shown on the Condominium Plan as "Withdrawable Land".
+A legal description by metes and bounds of the Land submitted to the Condominium is contained in [Exhibit A](https://github.com/Granite-Heights-Condominiums/HOA/blob/main/Legal/Amendments.md) hereto. Pursuant to RSA 356-B-16 (IV), the Declarant reserves the right to contract the land subject to the condominium by amending the Declaration to withdraw from the Condominium the land described on **Exhibit B** hereto and shown on the Condominium Plan as "Withdrawable Land".
 
 ### D. Description of Units
 1. **Buildings**: The Condominium includes up to 384 units located in buildings each containing up to four (4) units. The location and dimensions of the Buildings are shown on the Condominium Plans as recorded from time to time. The buildings are of wood frame construction, with two storeys, exclusive of basements, constructed on concrete footings, some of which will be built on slabs, some with full basements and some with partial basements, depending upon topographic and design considerations.
@@ -82,11 +82,11 @@ A legal description by metes and bounds of the Land submitted to the Condominium
 ### E. Description of the Common Area and Limited Common Area
 
 1. **Common Area**: The Common Area consists of the Property other than the Units and the Limited Common Area and includes, but is not limited to:
-   - the Land (subject to the right to contract the Condominium) and the walks, shrubbery, plantings, roadways, parking areas, and other land included in and described in Exhibit A hereto; and
+   - the Land (subject to the right to contract the Condominium) and the walks, shrubbery, plantings, roadways, parking areas, and other land included in and described in [Exhibit A](https://github.com/Granite-Heights-Condominiums/HOA/blob/main/Legal/Amendments.md) hereto; and
    - the water supply, sewage disposal, electrical, telephone, drainage, cable, gas, and other utility systems serving the Condominium, to the extent said systems are located within the Property and are not owned by the supplier of such utility services, but not including any portions thereof contained within or serving only one Unit; and
    - the pipes, conduit, plumbing, wires, meters, meter housings, and all other facilities for the provision of utility services or waste removal not located within and serving only the Unit in which they are located; and
    - any other amenities constructed or to be constructed on the Land which remains subject to the Declaration; and
-   - all other parts of the Condominium, including fixtures and personal property acquired by the Association, necessary or convenient to its existence, maintenance or safety or normally in common use and including any easements serving the Property and set forth or referred to in Exhibit A hereto.
+   - all other parts of the Condominium, including fixtures and personal property acquired by the Association, necessary or convenient to its existence, maintenance or safety or normally in common use and including any easements serving the Property and set forth or referred to in [Exhibit A](https://github.com/Granite-Heights-Condominiums/HOA/blob/main/Legal/Amendments.md) hereto.
 
 2. **Limited Common Area**: The areas assigned and shown on one or more of the Plans as decks, balconies, front yards, rear yards, porches, and storage space are reserved for the use of the Unit to which each is assigned. Designations of Limited Common Areas are shown on the Plans. Each Limited Common Area is owned in common by the Owners, but the use thereof is restricted to the Owner of the Unit or Units which it serves.
 
@@ -124,13 +124,13 @@ The Association shall have an easement over, across, through, and under each Uni
 If any portion of the Condominium is damaged by fire or other casualty, the proceeds of the master property damage insurance policy shall, pursuant to Section 43 (III) of the Act, be used to repair, replace, or restore the Common Area or Limited Common Area damaged, unless the Unit Owners vote to terminate the Condominium pursuant to Section 34 of the Act. The Board is hereby irrevocably appointed the agent for each Owner of a Unit and for each mortgagee of a Unit and for each Owner of any other interest in the Condominium to submit and adjust all claims arising under such policy, or otherwise resulting from such damage, and to execute and deliver releases upon the payment of claims. Any deficiency between the costs of repair or restoration and any insurance proceeds available to pay therefore shall be assessed against the Owners by the Association as a Common Expense. If the amount of insurance proceeds shall have exceeded the cost of such repair or restoration, then the excess of such insurance proceeds shall be allocated among the Unit Owners in accordance with their respective obligations to pay Common Expenses.
 
 ### P. Contraction of the Condominium
-Pursuant to Section 16(IV) of the Act, the Declarant expressly reserves the right in its sole discretion by the latest time now or hereafter permitted by the Act, and without condition or limitation, to contract the Condominium by removing or withdrawing all or any part of the Land described on Exhibit B from the Condominium. The land which may be withdrawn from the Condominium is shown on the Site Plan as "Withdrawable Land".
+Pursuant to Section 16(IV) of the Act, the Declarant expressly reserves the right in its sole discretion by the latest time now or hereafter permitted by the Act, and without condition or limitation, to contract the Condominium by removing or withdrawing all or any part of the Land described on **Exhibit B** from the Condominium. The land which may be withdrawn from the Condominium is shown on the Site Plan as "Withdrawable Land".
 
 ### Q. Relocation of Unit Boundaries and Subdivision of Units
 Relocation of boundaries between Units and subdivision of Units will be permitted subject to compliance with Sections 31 and 32 of the Act, the Condominium Instruments, and applicable laws, ordinances, and regulations.
 
 ### R. Convertible Land
-The land described on Exhibits A-2 (Phase V) and A-3 (Phase VI) is Convertible Land. Subject to the rights of removal and relocation as provided in subparagraph Z hereinbelow, up to eight (8) units may be constructed in Phase V and up to 314 Units may be created in Phase VI. All portions of the Convertible Land shall be restricted to residential use, except as needed for utilities, roads, driveways, walkways, and similar appurtenances. The structures to be built on the Convertible Land will be generally compatible in quality and of construction, construction materials, and architectural style with structures on other portions of the Submitted Land. Each Phase of the Convertible Land shall be improved with Units, roadways, driveways, parking areas, utility structures, and appurtenances similar to those to be built on the Submitted Land. The Units to be created on the Convertible Land may not be identical to those created on the Submitted Land and will differ only with respect to the provision of full or partial basements or slabs, depending on topographical and site conditions.
+The land described on [Exhibits A-2 (Phase V) and A-3 (Phase VI)](https://github.com/Granite-Heights-Condominiums/HOA/blob/main/Legal/Amendments.md) is Convertible Land. Subject to the rights of removal and relocation as provided in subparagraph Z hereinbelow, up to eight (8) units may be constructed in Phase V and up to 314 Units may be created in Phase VI. All portions of the Convertible Land shall be restricted to residential use, except as needed for utilities, roads, driveways, walkways, and similar appurtenances. The structures to be built on the Convertible Land will be generally compatible in quality and of construction, construction materials, and architectural style with structures on other portions of the Submitted Land. Each Phase of the Convertible Land shall be improved with Units, roadways, driveways, parking areas, utility structures, and appurtenances similar to those to be built on the Submitted Land. The Units to be created on the Convertible Land may not be identical to those created on the Submitted Land and will differ only with respect to the provision of full or partial basements or slabs, depending on topographical and site conditions.
 
 ### S. Allocation of Percentage Interests
 Each unit shall have the same undivided percentage interest in the Common Area, which interests shall be automatically adjusted as each Unit is substantially completed. From time to time, Declarant shall file an amendment to this Declaration reallocating the percentage interests among the Units.

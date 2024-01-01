@@ -22,7 +22,7 @@ Welcome to our community! This document serves as a guide to help you get famili
 ## Active Organizations
 
 - [Granite Heights HOA](https://github.com/Granite-Heights-Condominiums/HOA/blob/main/Organizations/Granite%20Heights%20HOA.md): Creates rules, objectives, and initiatives of our community.
-- [Property Management](https://github.com/Granite-Heights-Condominiums/HOA/blob/main/Organizations/Cedar%20Property%20Management.md): Contact details and hours for our property management team who are here to assist you.
+- [Property Management](https://github.com/Granite-Heights-Condominiums/HOA/blob/main/Organizations/Venders/Cedar%20Property%20Management/Information.md): Contact details and hours for our property management team who are here to assist you.
 - [Property Care](https://github.com/Granite-Heights-Condominiums/HOA/blob/main/Organizations/Precision%20Property%20Management.md): Provider of our lawn care, snow plowing, and property maintenance.
 
 ## Stay Connected

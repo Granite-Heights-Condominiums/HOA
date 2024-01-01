@@ -3,6 +3,7 @@
 
 - **NH Business ID:** [141084](https://quickstart.sos.nh.gov/online/BusinessInquire/BusinessInformation?businessID=53755)
 - **Business Creation Date:** 08/08/1990
+- In a **[Contract](https://github.com/Granite-Heights-Condominiums/HOA/blob/main/Organizations/Venders/Cedar%20Property%20Management/Information.md)** with Granite Heights
 
 ## Contact Information
 - **Contact:** Allan J O'Brien
