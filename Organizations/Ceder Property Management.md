@@ -1,7 +1,7 @@
 # Cedar Management Group
+***NAICS: Property management***
 
-## Property Management
-- **NH Business ID:** 141084
+- **NH Business ID:** [141084](https://quickstart.sos.nh.gov/online/BusinessInquire/BusinessInformation?businessID=53755)
 - **Business Creation Date:** 08/08/1990
 
 ## Contact Information
