@@ -5,7 +5,8 @@
 Welcome to our community! This document serves as a guide to help you get familiar with the resources and governing documents of the Granite Heights HOA.
 
 ## Legal Documents
-***Under construction... Please reference [original documents](https://github.com/Granite-Heights-Condominiums/HOA/tree/main/~Raw)**
+### WARNING: This resource is available as a searchable reference and may contain inaccuracies.
+***Please see the [original documents](https://github.com/Granite-Heights-Condominiums/HOA/tree/main/~Raw) to ensure the information you found or did not find is accurate.***
 - [By-Laws](https://github.com/Granite-Heights-Condominiums/HOA/blob/main/Legal/By-Laws.md): Understand the rules and guidelines for the operation of our HOA.
 - [Declaration](https://github.com/Granite-Heights-Condominiums/HOA/blob/main/Legal/Declaration.md): Read about the covenants, conditions, and restrictions for our community.
 - [Rules](https://github.com/Granite-Heights-Condominiums/HOA/blob/main/Legal/Rules.md): Familiarize yourself with the community rules and regulations.
