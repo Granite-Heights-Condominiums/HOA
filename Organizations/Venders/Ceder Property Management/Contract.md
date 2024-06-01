@@ -15,7 +15,7 @@ A. The Management Company hereby affirms that it is in the business of providing
 
 B. The Management Company affirms that it carries workers compensation coverage for its employees. Property damages insurance is carried in the amount of $1,000,000 for each occurrence, and public liability in the amount of $1,000,000 for each person, and in the amount of $1,000,000 for each occurrence. The above-mentioned insurance is to remain in full force and effect throughout the duration of this agreement.
 
-### II. CONTRACTOR RESPONSIBILITIES
+### III. CONTRACTOR RESPONSIBILITIES
 
 Management services will include, but are not be limited to, the following:
 
@@ -143,20 +143,20 @@ Management services will include, but are not be limited to, the following:
 
     The services required are set forth in this Agreement. Such services are to be performed in a good workmanlike manner.
 
-### III. CHARGES AND PAYMENTS
+### IV. CHARGES AND PAYMENTS
 
 In return for the satisfactory delivery of services by the Management Company in accordance with this Agreement, the Association agrees to pay the Management Company upon receipt of invoices pursuant to the following payment schedule. The sum of $20.00 per unit, per month, payable on the last day of each month. The per unit price will not change for the duration of this Agreement, which expires on December 31, 2023.
 
-### IV. DURATION OF AGREEMENT
+### V. DURATION OF AGREEMENT
 
 This Agreement shall benefit both parties to the Agreement and shall be in effect from January 1, 2023, until December 31, 2023. This Agreement may be terminated without cause by the Association upon thirty (30) days written notice, and by the Management Company upon ninety (90) days' notice for good cause shown.
 
 There will be no termination fee charged by either party if the Agreement is terminated by either party.
 
-### V. CONTRACT ADMINISTRATION
+### VI. CONTRACT ADMINISTRATION
 
 Notwithstanding termination provisions contained above in Section IV of this Agreement, if in the Board of Directors' opinion the Management Company's performance is unsatisfactory either in terms of services, materials or labor, the Association reserves the right to withhold all or partial payment after notification to the Management Company of the deficiencies, and allowing the Management Company ten (10) days to correct the same. In the event of withholding of payment, an administration charge of ten percent (10%) pro rata withholding will be deducted from the payment withheld should the Management Company not correct deficiencies within the ten (10) day period.
 
-### VI. ENTIRE AGREEMENT
+### VII. ENTIRE AGREEMENT
 
 The parties agree that this Agreement is the entire agreement between the parties, and that any change to the provisions of the agreement must be made in writing and signed by both parties. The laws of the State of New Hampshire shall govern the interpretation and all matters relating to this contract.
