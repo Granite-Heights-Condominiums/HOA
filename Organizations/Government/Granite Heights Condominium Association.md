@@ -15,7 +15,7 @@
 - **Online Form:** https://graniteheightshoa.com/contact
 
 ## Community Contact Information
-- **Facebook:**https://www.facebook.com/groups/749581332626396
+- **Facebook:** https://www.facebook.com/groups/749581332626396
 
 
 ## Address
