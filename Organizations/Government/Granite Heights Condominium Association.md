@@ -26,10 +26,11 @@
 ### Active Members
 *Name/Title*          | *Business Address*
 --------------------- | ---------------------------------------
-Alexander Libby / Director   | 1465 Hooksett Road #1017, Hooksett, NH, 03103, USA
-Chester DuPont / Director   | 1465 Hooksett Road #1019, Hooksett, NH, 03106, USA
+Alexander Libby / Director  | 1465 Hooksett Road #1017, Hooksett, NH, 03103, USA
 Angela Graham / Secretary   | 1465 Hooksett Road #1321, Hooksett, NH, 03103, USA
-
+Chester DuPont / Director   | 1465 Hooksett Road #1019, Hooksett, NH, 03106, USA
+CoCo Leavitt / Director     | 1465 Hooksett Road #1025, Hooksett, NH, 03106, USA
+Kevin Federico / Director   | 1465 Hooksett Road #1380, Hooksett, NH, 03106, USA
 ### Candidate Members
 *Name/Title*                 | *Business Address*
 ---------------------------- | ---------------------------------------
@@ -38,6 +39,6 @@ Angela Graham / Secretary   | 1465 Hooksett Road #1321, Hooksett, NH, 03103, USA
 *Name/Title*                 | *Business Address*
 ---------------------------- | ---------------------------------------
 Anthony Sukiennik J / Director | 1465 Hooksett Road #1325, Hooksett, NH, 03106, USA
-Jo Greenwald / Treasurer    | 1465 Hooksett Road #1349, Hooksett, NH, 03106, USA
-Lester Robinson / President | 1465 Hooksett Road #1013, Hooksett, NH, 03106, USA
-Mike Lennon / Director       | 1465 Hooksett Road #1002, Hooksett, NH, 03106, USA
+Jo Greenwald / Treasurer       | 1465 Hooksett Road #1349, Hooksett, NH, 03106, USA
+Lester Robinson / President    | 1465 Hooksett Road #1013, Hooksett, NH, 03106, USA
+Mike Lennon / Director         | 1465 Hooksett Road #1002, Hooksett, NH, 03106, USA
